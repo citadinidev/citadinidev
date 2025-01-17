@@ -16,6 +16,3 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=citadinidev&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
-## 🌐 Redes Sociais
-- [LinkedIn](https://linkedin.com/in/citadinidev)
-
