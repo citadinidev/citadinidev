@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou o Rafael Citadini também conhecido como Citadini Dev 👋
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de aprender e de encontrar novos desafios.
 
-<!--
-**citadinidev/citadinidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+- 🌍 **Localização**: [Criciúma-SC]
+- 🎓 **Tecnologias**: Javascript, Node.js, Nest,js, MySQL, React, HTML5, CSS3 entre outras
+- 💼 **Trabalho**: Desenvolvedor Full Stack
+- 🌱 **Aprendendo**: Novas tecnologias e técnicas de desenvolvimento de software
+- 📫 **Como me encontrar**: [https://citadini.dev]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=citadinidev&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🌟 Meus Projetos
+
+- [Projeto 1](https://github.com/citadinidev/projeto1): Descrição do projeto 1
+- [Projeto 2](https://github.com/citadinidev/projeto2): Descrição do projeto 2
+- [Projeto 3](https://github.com/citadinidev/projeto3): Descrição do projeto 3
+
