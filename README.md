@@ -1,5 +1,5 @@
 # Olá, sou o Rafael Citadini 👋
-## também conhecido como Citadini Dev 
+## Também conhecido como Citadini Dev 
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de aprender e de encontrar novos desafios.
 
