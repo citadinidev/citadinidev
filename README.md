@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🎓 **Tecnologias**: Javascript, Node.js, Nest,js, MySQL, React, HTML5, CSS3 entre outras
 - 💼 **Trabalho**: Desenvolvedor Full Stack
 - 🌱 **Aprendendo**: Novas tecnologias e técnicas de desenvolvimento de software
-- 📫 **Como me encontrar**: [Meu site](https://citadini.dev), [E-mail](mailto:rafaelmcitadini@gmail.com), [LinkedIn](https://linkedin.com/in/rafael-citadini)
+- 📫 **Como me encontrar**: [Meu site](https://citadini.dev), [E-mail](mailto:citadini.dev@gmail.com), [LinkedIn](https://linkedin.com/in/rafael-citadini)
 
 ## 📈 Estatísticas
 
